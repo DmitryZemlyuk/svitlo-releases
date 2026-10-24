@@ -1,12 +1,12 @@
 {
-  "version": "1.0.14",
-  "code": 15,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.14.apk",
+  "version": "1.0.15",
+  "code": 16,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.15.apk",
   "size": 215256,
-  "sha256": "6e332f2f5c851d7567b63200e68792ef05d429af8bd76e9c8949dd7d6ac2af7b",
+  "sha256": "2c0db6738a2091666c3fba32d8e51c3f8c7559f408699870320abe9d24da6497",
   "notes": {
-    "uk": "Номер вашої підчерги в «Усі підчерги» стоїть по центру.",
-    "ru": "Номер вашей подочереди в «Усі підчерги» стоит по центру.",
-    "en": "Your sub-queue's number in \"all sub-queues\" is centred."
+    "uk": "Перевірка оновлень бачить нову версію одразу після виходу.",
+    "ru": "Проверка обновлений видит новую версию сразу после выхода.",
+    "en": "The update check sees a new version right after it is released."
   }
 }
