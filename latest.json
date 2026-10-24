@@ -1,0 +1,12 @@
+{
+  "version": "1.0.4",
+  "code": 5,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.4.apk",
+  "size": 198872,
+  "sha256": "3cab24d393c236c08a0372b14ca8c8de5f96c21270242320546fd3013773c891",
+  "notes": {
+    "uk": "Застосунок сам повідомляє про нові версії й оновлюється без завантаження файлу вручну.",
+    "ru": "Приложение само сообщает о новых версиях и обновляется без ручной загрузки файла.",
+    "en": "The app now announces new versions and updates itself, no manual download needed."
+  }
+}
