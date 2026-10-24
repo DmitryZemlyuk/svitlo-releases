@@ -1,12 +1,12 @@
 {
-  "version": "1.0.8",
-  "code": 9,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.8.apk",
+  "version": "1.0.9",
+  "code": 10,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.9.apk",
   "size": 211160,
-  "sha256": "89699002adb24072002fda242dacf9fd1b014d8daeb83006e513b54d53f639b0",
+  "sha256": "195ee6aa44a49a5a4235dc845bd412ebaddb21c99a0a5a8e2585ce28b3e5b1d4",
   "notes": {
-    "uk": "Відлік на екрані блокування показує адресу, а перед відключенням нагадує зарядити телефон.",
-    "ru": "Отсчёт на экране блокировки показывает адрес, а перед отключением напоминает зарядить телефон.",
-    "en": "The lock screen countdown shows the address and, before an outage, reminds you to charge your phone."
+    "uk": "Аварії та планові роботи на шкалі виглядають однаково, а збіг із відключенням за графіком видно.",
+    "ru": "Аварии и плановые работы на шкале выглядят одинаково, а совпадение с отключением по графику видно.",
+    "en": "Emergency outages and planned works look the same on the bar, and where they overlap a scheduled outage shows."
   }
 }
