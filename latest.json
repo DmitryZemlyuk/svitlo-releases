@@ -1,12 +1,12 @@
 {
-  "version": "1.0.20",
-  "code": 21,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.20.apk",
+  "version": "1.0.21",
+  "code": 22,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.21.apk",
   "size": 215256,
-  "sha256": "fd1900cbc64693ecc7b6a906f532587aafa9055ecd7962407cdcf486cabf39aa",
+  "sha256": "581ebf29ae788a40c2051eba49aa02e4fe0c8ef4a07e04c1a460a594c24185f8",
   "notes": {
-    "uk": "Сторінка більше не зсувається сама, коли приходять нові дані.",
-    "ru": "Страница больше не сдвигается сама, когда приходят новые данные.",
-    "en": "The page no longer moves by itself when new data comes in."
+    "uk": "Застосунок на весь екран: без смуг під рядком стану й панеллю навігації.",
+    "ru": "Приложение на весь экран: без полос под строкой состояния и панелью навигации.",
+    "en": "The app goes edge to edge: no bands under the status and navigation bars."
   }
 }
