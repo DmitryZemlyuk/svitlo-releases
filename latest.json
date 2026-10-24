@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
-  "code": 7,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.6.apk",
+  "version": "1.0.7",
+  "code": 8,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.7.apk",
   "size": 211160,
-  "sha256": "326545f0b923a06147e0b3de1cf41ecb541addaa9c0fa22fa1168afbe86fedee",
+  "sha256": "3fd417467d8c2585e96812c6e009d7875d5a7d6760948d7fab425517765c46c4",
   "notes": {
-    "uk": "Віджети більше не обрізають текст. Відлік до відключення й до появи світла на екрані блокування (Now Bar). Плитка «Світло» у швидких налаштуваннях. Віджет показує, якщо дані давно не оновлювалися.",
-    "ru": "Виджеты больше не обрезают текст. Отсчёт до отключения и до появления света на экране блокировки (Now Bar). Плитка «Світло» в быстрых настройках. Виджет показывает, если данные давно не обновлялись.",
-    "en": "Widgets no longer cut their text. A countdown to the outage and to the power coming back on the lock screen (Now Bar). A \"Світло\" tile in the quick settings. Widgets show when their data is old."
+    "uk": "Віджет, зменшений до одного рядка, більше не обрізає текст унизу.",
+    "ru": "Виджет, уменьшенный до одной строки, больше не обрезает текст внизу.",
+    "en": "A widget shrunk to one row no longer cuts its text at the bottom."
   }
 }
