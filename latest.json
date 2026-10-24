@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
-  "code": 6,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.5.apk",
-  "size": 198872,
-  "sha256": "e5e9f4c6d1bf58a2b2be2344c7399b5779d7462c70de81dd02cd627c03ff0a1a",
+  "version": "1.0.6",
+  "code": 7,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.6.apk",
+  "size": 211160,
+  "sha256": "326545f0b923a06147e0b3de1cf41ecb541addaa9c0fa22fa1168afbe86fedee",
   "notes": {
-    "uk": "Віджети оновлюються без точних будильників, застосунок більше не просить на них дозволу. Якщо сповіщення кілька днів не вдається підключити, застосунок про це попередить.",
-    "ru": "Виджеты обновляются без точных будильников, приложение больше не просит на них разрешения. Если уведомления несколько дней не удаётся подключить, приложение об этом предупредит.",
-    "en": "Widgets refresh without exact alarms, so the app no longer asks for that permission. If notifications keep failing for several days, the app now says so."
+    "uk": "Віджети більше не обрізають текст. Відлік до відключення й до появи світла на екрані блокування (Now Bar). Плитка «Світло» у швидких налаштуваннях. Віджет показує, якщо дані давно не оновлювалися.",
+    "ru": "Виджеты больше не обрезают текст. Отсчёт до отключения и до появления света на экране блокировки (Now Bar). Плитка «Світло» в быстрых настройках. Виджет показывает, если данные давно не обновлялись.",
+    "en": "Widgets no longer cut their text. A countdown to the outage and to the power coming back on the lock screen (Now Bar). A \"Світло\" tile in the quick settings. Widgets show when their data is old."
   }
 }
