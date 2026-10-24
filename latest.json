@@ -1,12 +1,12 @@
 {
-  "version": "1.0.18",
-  "code": 19,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.18.apk",
-  "size": 211160,
-  "sha256": "36be0540d3f34f8ad6c3dcfaea326c1cd9dc46984b619aeaf1168d58d08f8adb",
+  "version": "1.0.19",
+  "code": 20,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.19.apk",
+  "size": 215256,
+  "sha256": "fe31d2494b84eb97d84ba14e43eb794c26d06ad12485b7e5cfdb882844e4e4bb",
   "notes": {
-    "uk": "Відлік на екрані блокування – звичайне тихе сповіщення, без Now Bar.",
-    "ru": "Отсчёт на экране блокировки – обычное тихое уведомление, без Now Bar.",
-    "en": "The lock screen countdown is an ordinary silent notification, without the Now Bar."
+    "uk": "Тихі години й відлік однакової ширини, без порожнього місця поруч.",
+    "ru": "Тихие часы и отсчёт одинаковой ширины, без пустого места рядом.",
+    "en": "Quiet hours and the countdown are equally wide, with no empty space beside them."
   }
 }
