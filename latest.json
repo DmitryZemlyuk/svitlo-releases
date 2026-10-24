@@ -1,12 +1,12 @@
 {
-  "version": "1.0.4",
-  "code": 5,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.4.apk",
+  "version": "1.0.5",
+  "code": 6,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.5.apk",
   "size": 198872,
-  "sha256": "3cab24d393c236c08a0372b14ca8c8de5f96c21270242320546fd3013773c891",
+  "sha256": "e5e9f4c6d1bf58a2b2be2344c7399b5779d7462c70de81dd02cd627c03ff0a1a",
   "notes": {
-    "uk": "Застосунок сам повідомляє про нові версії й оновлюється без завантаження файлу вручну.",
-    "ru": "Приложение само сообщает о новых версиях и обновляется без ручной загрузки файла.",
-    "en": "The app now announces new versions and updates itself, no manual download needed."
+    "uk": "Віджети оновлюються без точних будильників, застосунок більше не просить на них дозволу. Якщо сповіщення кілька днів не вдається підключити, застосунок про це попередить.",
+    "ru": "Виджеты обновляются без точных будильников, приложение больше не просит на них разрешения. Если уведомления несколько дней не удаётся подключить, приложение об этом предупредит.",
+    "en": "Widgets refresh without exact alarms, so the app no longer asks for that permission. If notifications keep failing for several days, the app now says so."
   }
 }
