@@ -1,12 +1,12 @@
 {
-  "version": "1.0.13",
-  "code": 14,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.13.apk",
+  "version": "1.0.14",
+  "code": 15,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.14.apk",
   "size": 215256,
-  "sha256": "d74351c23aea806882e780e4f2e0709909fceafc31861db6e0b544aae2d71f70",
+  "sha256": "6e332f2f5c851d7567b63200e68792ef05d429af8bd76e9c8949dd7d6ac2af7b",
   "notes": {
-    "uk": "Вибір адреси для відліку в стилі застосунку. Підказки під час додавання адреси більше не ховаються за краєм екрана. Виправлено вигляд у горизонтальному режимі.",
-    "ru": "Выбор адреса для отсчёта в стиле приложения. Подсказки при добавлении адреса больше не прячутся за краем экрана. Исправлен вид в горизонтальном режиме.",
-    "en": "The countdown's address picker matches the app. Suggestions when adding an address no longer hide below the screen. Landscape layout fixed."
+    "uk": "Номер вашої підчерги в «Усі підчерги» стоїть по центру.",
+    "ru": "Номер вашей подочереди в «Усі підчерги» стоит по центру.",
+    "en": "Your sub-queue's number in \"all sub-queues\" is centred."
   }
 }
