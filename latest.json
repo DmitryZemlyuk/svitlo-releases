@@ -1,12 +1,12 @@
 {
-  "version": "1.0.11",
-  "code": 12,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.11.apk",
+  "version": "1.0.12",
+  "code": 13,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.12.apk",
   "size": 211160,
-  "sha256": "8d1986b4df43e8c85ab87f5bf44cc9e848fbb9f067ba6acae58bac8fdcc4d46c",
+  "sha256": "ff93df40e08f923257e3661920667d81a5e4ac020b8d82ad4dadcd8577ad04a8",
   "notes": {
-    "uk": "Аварії, що вже закінчилися сьогодні, лишаються на шкалі віджета. Кнопки в сповіщеннях більше не стрибають.",
-    "ru": "Аварии, уже закончившиеся сегодня, остаются на шкале виджета. Кнопки в уведомлениях больше не прыгают.",
-    "en": "Outages that ended earlier today stay on the widget's bar. The notification buttons no longer jump."
+    "uk": "Оновлення свайпом униз. Можна вибрати адресу для відліку на екрані блокування та плитки «Світло».",
+    "ru": "Обновление свайпом вниз. Можно выбрать адрес для отсчёта на экране блокировки и плитки «Світло».",
+    "en": "Pull down to refresh. You can pick the address for the lock screen countdown and the \"Світло\" tile."
   }
 }
