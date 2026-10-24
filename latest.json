@@ -1,12 +1,12 @@
 {
-  "version": "1.0.7",
-  "code": 8,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.7.apk",
+  "version": "1.0.8",
+  "code": 9,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.8.apk",
   "size": 211160,
-  "sha256": "3fd417467d8c2585e96812c6e009d7875d5a7d6760948d7fab425517765c46c4",
+  "sha256": "89699002adb24072002fda242dacf9fd1b014d8daeb83006e513b54d53f639b0",
   "notes": {
-    "uk": "Віджет, зменшений до одного рядка, більше не обрізає текст унизу.",
-    "ru": "Виджет, уменьшенный до одной строки, больше не обрезает текст внизу.",
-    "en": "A widget shrunk to one row no longer cuts its text at the bottom."
+    "uk": "Відлік на екрані блокування показує адресу, а перед відключенням нагадує зарядити телефон.",
+    "ru": "Отсчёт на экране блокировки показывает адрес, а перед отключением напоминает зарядить телефон.",
+    "en": "The lock screen countdown shows the address and, before an outage, reminds you to charge your phone."
   }
 }
