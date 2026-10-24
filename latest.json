@@ -1,12 +1,12 @@
 {
-  "version": "1.0.21",
-  "code": 22,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.21.apk",
+  "version": "1.0.22",
+  "code": 23,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.22.apk",
   "size": 215256,
-  "sha256": "581ebf29ae788a40c2051eba49aa02e4fe0c8ef4a07e04c1a460a594c24185f8",
+  "sha256": "57fd68f898fc05f80656e17a3dd8b81f6c3635f7fb2686354268eb2ad16d47bc",
   "notes": {
-    "uk": "Застосунок на весь екран: без смуг під рядком стану й панеллю навігації.",
-    "ru": "Приложение на весь экран: без полос под строкой состояния и панелью навигации.",
-    "en": "The app goes edge to edge: no bands under the status and navigation bars."
+    "uk": "М'яке затінення під рядком стану. Опис оновлення показується однією мовою – мовою застосунку.",
+    "ru": "Мягкое затенение под строкой состояния. Описание обновления показывается на одном языке – языке приложения.",
+    "en": "A soft shade under the status bar. Update notes come in one language, the app's."
   }
 }
