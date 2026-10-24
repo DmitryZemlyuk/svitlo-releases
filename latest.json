@@ -1,12 +1,12 @@
 {
-  "version": "1.0.17",
-  "code": 18,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.17.apk",
-  "size": 219352,
-  "sha256": "ae3a20af68bd639ce363d52614459f30c15d32c442fdd604b5ee6e8c4eced186",
+  "version": "1.0.18",
+  "code": 19,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.18.apk",
+  "size": 211160,
+  "sha256": "36be0540d3f34f8ad6c3dcfaea326c1cd9dc46984b619aeaf1168d58d08f8adb",
   "notes": {
-    "uk": "Спроба показати текст і час відліку в Now Bar Samsung.",
-    "ru": "Попытка показать текст и время отсчёта в Now Bar Samsung.",
-    "en": "An attempt to show the countdown's text and time in Samsung's Now Bar."
+    "uk": "Відлік на екрані блокування – звичайне тихе сповіщення, без Now Bar.",
+    "ru": "Отсчёт на экране блокировки – обычное тихое уведомление, без Now Bar.",
+    "en": "The lock screen countdown is an ordinary silent notification, without the Now Bar."
   }
 }
