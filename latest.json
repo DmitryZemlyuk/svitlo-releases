@@ -1,12 +1,12 @@
 {
-  "version": "1.0.19",
-  "code": 20,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.19.apk",
+  "version": "1.0.20",
+  "code": 21,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.20.apk",
   "size": 215256,
-  "sha256": "fe31d2494b84eb97d84ba14e43eb794c26d06ad12485b7e5cfdb882844e4e4bb",
+  "sha256": "fd1900cbc64693ecc7b6a906f532587aafa9055ecd7962407cdcf486cabf39aa",
   "notes": {
-    "uk": "Тихі години й відлік однакової ширини, без порожнього місця поруч.",
-    "ru": "Тихие часы и отсчёт одинаковой ширины, без пустого места рядом.",
-    "en": "Quiet hours and the countdown are equally wide, with no empty space beside them."
+    "uk": "Сторінка більше не зсувається сама, коли приходять нові дані.",
+    "ru": "Страница больше не сдвигается сама, когда приходят новые данные.",
+    "en": "The page no longer moves by itself when new data comes in."
   }
 }
