@@ -1,12 +1,12 @@
 {
-  "version": "1.0.10",
-  "code": 11,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.10.apk",
+  "version": "1.0.11",
+  "code": 12,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.11.apk",
   "size": 211160,
-  "sha256": "33e4688b6e2fe2e7e285997b0c1014fad1ab1ed842c12c1d3fd5cbff753f7315",
+  "sha256": "8d1986b4df43e8c85ab87f5bf44cc9e848fbb9f067ba6acae58bac8fdcc4d46c",
   "notes": {
-    "uk": "Аварії та планові роботи на шкалі виглядають однаково, а збіг із відключенням за графіком видно.",
-    "ru": "Аварии и плановые работы на шкале выглядят одинаково, а совпадение с отключением по графику видно.",
-    "en": "Emergency outages and planned works look the same on the bar, and where they overlap a scheduled outage shows."
+    "uk": "Аварії, що вже закінчилися сьогодні, лишаються на шкалі віджета. Кнопки в сповіщеннях більше не стрибають.",
+    "ru": "Аварии, уже закончившиеся сегодня, остаются на шкале виджета. Кнопки в уведомлениях больше не прыгают.",
+    "en": "Outages that ended earlier today stay on the widget's bar. The notification buttons no longer jump."
   }
 }
