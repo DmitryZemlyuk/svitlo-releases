@@ -1,12 +1,12 @@
 {
-  "version": "1.0.12",
-  "code": 13,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.12.apk",
-  "size": 211160,
-  "sha256": "ff93df40e08f923257e3661920667d81a5e4ac020b8d82ad4dadcd8577ad04a8",
+  "version": "1.0.13",
+  "code": 14,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.13.apk",
+  "size": 215256,
+  "sha256": "d74351c23aea806882e780e4f2e0709909fceafc31861db6e0b544aae2d71f70",
   "notes": {
-    "uk": "Оновлення свайпом униз. Можна вибрати адресу для відліку на екрані блокування та плитки «Світло».",
-    "ru": "Обновление свайпом вниз. Можно выбрать адрес для отсчёта на экране блокировки и плитки «Світло».",
-    "en": "Pull down to refresh. You can pick the address for the lock screen countdown and the \"Світло\" tile."
+    "uk": "Вибір адреси для відліку в стилі застосунку. Підказки під час додавання адреси більше не ховаються за краєм екрана. Виправлено вигляд у горизонтальному режимі.",
+    "ru": "Выбор адреса для отсчёта в стиле приложения. Подсказки при добавлении адреса больше не прячутся за краем экрана. Исправлен вид в горизонтальном режиме.",
+    "en": "The countdown's address picker matches the app. Suggestions when adding an address no longer hide below the screen. Landscape layout fixed."
   }
 }
