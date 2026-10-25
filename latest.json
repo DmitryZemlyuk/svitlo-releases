@@ -1,12 +1,12 @@
 {
-  "version": "1.0.22",
-  "code": 23,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.22.apk",
-  "size": 215256,
-  "sha256": "57fd68f898fc05f80656e17a3dd8b81f6c3635f7fb2686354268eb2ad16d47bc",
+  "version": "1.0.23",
+  "code": 24,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.23.apk",
+  "size": 149999,
+  "sha256": "e312502839abd3ea2bd0cf03a478bc821987cbbbd0b8ce48a87cc3672715d3ff",
   "notes": {
-    "uk": "М'яке затінення під рядком стану. Опис оновлення показується однією мовою – мовою застосунку.",
-    "ru": "Мягкое затенение под строкой состояния. Описание обновления показывается на одном языке – языке приложения.",
-    "en": "A soft shade under the status bar. Update notes come in one language, the app's."
+    "uk": "Застосунок працює швидше: фон малюється миттєво, сторінка оновлюється без повного перемальовування.",
+    "ru": "Приложение работает быстрее: фон рисуется мгновенно, страница обновляется без полной перерисовки.",
+    "en": "Faster: the background draws instantly, the page updates without a full redraw."
   }
 }
