@@ -1,12 +1,12 @@
 {
-  "version": "1.0.23",
-  "code": 24,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.23.apk",
-  "size": 149999,
-  "sha256": "e312502839abd3ea2bd0cf03a478bc821987cbbbd0b8ce48a87cc3672715d3ff",
+  "version": "1.0.24",
+  "code": 25,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.24.apk",
+  "size": 150282,
+  "sha256": "741cedacf03744b9c769702cdac38de8bee88aeb12c066b9a170f5ba6a3f28af",
   "notes": {
-    "uk": "Застосунок працює швидше: фон малюється миттєво, сторінка оновлюється без повного перемальовування.",
-    "ru": "Приложение работает быстрее: фон рисуется мгновенно, страница обновляется без полной перерисовки.",
-    "en": "Faster: the background draws instantly, the page updates without a full redraw."
+    "uk": "Фон знову малюється точно як раніше, без смуг у бірюзовому світлі.",
+    "ru": "Фон снова рисуется точно как раньше, без полос в бирюзовом свете.",
+    "en": "The background is drawn exactly as before again, no bands in the teal light."
   }
 }
