@@ -1,12 +1,12 @@
 {
-  "version": "1.0.25",
-  "code": 26,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.25.apk",
-  "size": 151206,
-  "sha256": "bc856fc87f85033befc1d21d4f8cde7a09a5d6bc8e703a4f8cddf61d7c020dd6",
+  "version": "1.0.26",
+  "code": 27,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.26.apk",
+  "size": 151368,
+  "sha256": "a0a2d35d948317f8283d8c29e1efabc49b48776f47cedeb118314691424780f6",
   "notes": {
-    "uk": "Якщо в будинку кілька підчерг, при додаванні адреси можна вибрати свою.",
-    "ru": "Если в доме несколько подочередей, при добавлении адреса можно выбрать свою.",
-    "en": "If a house has several sub-queues, you can pick yours when adding the address."
+    "uk": "Виправлено білий прямокутник на смузі графіка після зникнення планових робіт.",
+    "ru": "Исправлен белый прямоугольник на полосе графика после исчезновения плановых работ.",
+    "en": "Fixed a white block on the schedule bar after planned works disappeared."
   }
 }
