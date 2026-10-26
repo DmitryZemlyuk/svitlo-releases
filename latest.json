@@ -1,12 +1,12 @@
 {
-  "version": "1.0.24",
-  "code": 25,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.24.apk",
-  "size": 150282,
-  "sha256": "741cedacf03744b9c769702cdac38de8bee88aeb12c066b9a170f5ba6a3f28af",
+  "version": "1.0.25",
+  "code": 26,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.25.apk",
+  "size": 151206,
+  "sha256": "bc856fc87f85033befc1d21d4f8cde7a09a5d6bc8e703a4f8cddf61d7c020dd6",
   "notes": {
-    "uk": "Фон знову малюється точно як раніше, без смуг у бірюзовому світлі.",
-    "ru": "Фон снова рисуется точно как раньше, без полос в бирюзовом свете.",
-    "en": "The background is drawn exactly as before again, no bands in the teal light."
+    "uk": "Якщо в будинку кілька підчерг, при додаванні адреси можна вибрати свою.",
+    "ru": "Если в доме несколько подочередей, при добавлении адреса можно выбрать свою.",
+    "en": "If a house has several sub-queues, you can pick yours when adding the address."
   }
 }
