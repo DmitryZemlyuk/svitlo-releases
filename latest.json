@@ -1,12 +1,12 @@
 {
-  "version": "1.0.26",
-  "code": 27,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.26.apk",
-  "size": 151368,
-  "sha256": "a0a2d35d948317f8283d8c29e1efabc49b48776f47cedeb118314691424780f6",
+  "version": "1.0.27",
+  "code": 28,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.27.apk",
+  "size": 152501,
+  "sha256": "e96e609f221dca2ceac9ce0148f787c27e330e66eb5fd7d602df301e4bf2e743",
   "notes": {
-    "uk": "Виправлено білий прямокутник на смузі графіка після зникнення планових робіт.",
-    "ru": "Исправлен белый прямоугольник на полосе графика после исчезновения плановых работ.",
-    "en": "Fixed a white block on the schedule bar after planned works disappeared."
+    "uk": "Можна перевірити графік будь-якої адреси без збереження: кнопка «Перевірити».",
+    "ru": "Можно проверить график любого адреса без сохранения: кнопка «Проверить».",
+    "en": "Check the schedule of any address without saving it: the Check button."
   }
 }
