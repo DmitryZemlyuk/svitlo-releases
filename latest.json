@@ -1,12 +1,12 @@
 {
-  "version": "1.0.27",
-  "code": 28,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.27.apk",
-  "size": 152501,
-  "sha256": "e96e609f221dca2ceac9ce0148f787c27e330e66eb5fd7d602df301e4bf2e743",
+  "version": "1.0.28",
+  "code": 29,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.28.apk",
+  "size": 151363,
+  "sha256": "f9e4b3f6a955e3839238ef23bf607d8b784e034ab0d0041da1e4cb0e1ba5c4f2",
   "notes": {
-    "uk": "Можна перевірити графік будь-якої адреси без збереження: кнопка «Перевірити».",
-    "ru": "Можно проверить график любого адреса без сохранения: кнопка «Проверить».",
-    "en": "Check the schedule of any address without saving it: the Check button."
+    "uk": "Оновлення тепер завантажується в браузері й встановлюється системним установником – застосунок сам нічого не встановлює.",
+    "ru": "Обновление теперь загружается в браузере и устанавливается системным установщиком – приложение само ничего не устанавливает.",
+    "en": "Updates now download in the browser and install with the system installer – the app installs nothing itself."
   }
 }
