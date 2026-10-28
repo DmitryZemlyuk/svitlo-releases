@@ -1,12 +1,12 @@
 {
-  "version": "1.0.29",
-  "code": 30,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.29.apk",
-  "size": 151112,
-  "sha256": "a9bf75e909fa840134f8828be012fa82a31299bb08d4b8caea83c61f2f9c8465",
+  "version": "1.0.30",
+  "code": 31,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.30.apk",
+  "size": 151697,
+  "sha256": "338cc48739388731eb627d91b94ef83d939e640e461914e829228a42be8f6af2",
   "notes": {
-    "uk": "Оновлення завжди завантажує найновішу версію, навіть якщо раніше було знайдено старішу.",
-    "ru": "Обновление всегда загружает самую новую версию, даже если раньше была найдена более старая.",
-    "en": "Updating always downloads the newest version, even if an older one was found before."
+    "uk": "Будинки, які не вимикають за графіками, тепер можна додати – вони показуються як «Не вимикається за графіком».",
+    "ru": "Дома, которые не отключают по графикам, теперь можно добавить – они показываются как «Не отключается по графику».",
+    "en": "Houses that are never switched off by the schedules can now be added and show as such."
   }
 }
