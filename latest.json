@@ -1,12 +1,12 @@
 {
-  "version": "1.0.30",
-  "code": 31,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.30.apk",
-  "size": 151697,
-  "sha256": "338cc48739388731eb627d91b94ef83d939e640e461914e829228a42be8f6af2",
+  "version": "1.0.31",
+  "code": 32,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.31.apk",
+  "size": 152007,
+  "sha256": "7c9d6fb7764bdb29e1251fbac9f63cc56a7a0b8304badc1723dba8747d157ae4",
   "notes": {
-    "uk": "Будинки, які не вимикають за графіками, тепер можна додати – вони показуються як «Не вимикається за графіком».",
-    "ru": "Дома, которые не отключают по графикам, теперь можно добавить – они показываются как «Не отключается по графику».",
-    "en": "Houses that are never switched off by the schedules can now be added and show as such."
+    "uk": "Черги, змінені пізно ввечері, показуються на наступний день.",
+    "ru": "Очереди, изменённые поздно вечером, показываются на следующий день.",
+    "en": "Queue changes made late in the evening are shown for the next day."
   }
 }
