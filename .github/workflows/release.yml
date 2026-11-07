@@ -13,6 +13,11 @@ on:
 permissions:
   contents: write
 
+# two pushes close together (a release, then a fix of its notes) run one after the other, not side by side
+concurrency:
+  group: release
+  cancel-in-progress: false
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -63,5 +68,6 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git commit -q -m "Remove APKs older than the last $KEEP versions"
-            git push
+            # main may have moved while this ran (another push): put this commit on top of it
+            for i in 1 2 3; do git pull -q --rebase origin main && git push && break; sleep 5; done
           fi
