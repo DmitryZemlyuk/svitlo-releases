@@ -1,12 +1,12 @@
 {
-  "version": "1.0.32",
-  "code": 33,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.32.apk",
-  "size": 152111,
-  "sha256": "ea6ed859e8a065849bc9da50593d86b4f2c991cd324413ee2d0d200d3742ca79",
+  "version": "1.0.33",
+  "code": 34,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.33.apk",
+  "size": 153211,
+  "sha256": "970e55b7acb0bf44652acdf51092f462fbd55a2156a9bd7441698b9ab6aba579",
   "notes": {
-    "uk": "Поки сайт обленерго показує лише оголошення, адреси можна додавати з останніх відомих списків.",
-    "ru": "Пока сайт облэнерго показывает только объявление, адреса можно добавлять из последних известных списков.",
-    "en": "While the oblenergo site shows only a notice, addresses can be added from the last known lists."
+    "uk": "Виправлення: уведомлення не губляться після заміни токена Google Play; додаток не закривається, коли система вивантажує сторінку; підчерга зберігається при редагуванні адреси; натискання на віджет відкриває його адресу з будь-якого екрана; правильне «завтра» в ніч переведення годинника.",
+    "ru": "Исправления: уведомления не теряются после замены токена Google Play; приложение не закрывается, когда система выгружает страницу; подочередь сохраняется при редактировании адреса; нажатие на виджет открывает его адрес с любого экрана; правильное «завтра» в ночь перевода часов.",
+    "en": "Fixes: notifications keep working after Google Play replaces the token; the app no longer closes when the system unloads the page; the sub-queue is kept when editing an address; a widget tap opens its address from any screen; correct \"tomorrow\" on clock-change nights."
   }
 }
