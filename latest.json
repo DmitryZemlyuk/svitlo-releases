@@ -1,12 +1,12 @@
 {
-  "version": "1.0.33",
-  "code": 34,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.33.apk",
-  "size": 153211,
-  "sha256": "970e55b7acb0bf44652acdf51092f462fbd55a2156a9bd7441698b9ab6aba579",
+  "version": "1.0.34",
+  "code": 35,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.34.apk",
+  "size": 153448,
+  "sha256": "7fdb5d5f35ce08617c275b1a421e5339d444eadfa049cffc4d6566a03e2a8e39",
   "notes": {
-    "uk": "Виправлення: сповіщення не губляться після заміни токена Google Play; додаток не закривається, коли система вивантажує сторінку; підчерга зберігається при редагуванні адреси; натискання на віджет відкриває його адресу з будь-якого екрана; правильне «завтра» в ніч переведення годинника.",
-    "ru": "Исправления: уведомления не теряются после замены токена Google Play; приложение не закрывается, когда система выгружает страницу; подочередь сохраняется при редактировании адреса; нажатие на виджет открывает его адрес с любого экрана; правильное «завтра» в ночь перевода часов.",
-    "en": "Fixes: notifications keep working after Google Play replaces the token; the app no longer closes when the system unloads the page; the sub-queue is kept when editing an address; a widget tap opens its address from any screen; correct \"tomorrow\" on clock-change nights."
+    "uk": "Якщо на сьогодні обленерго не оновило кількість черг, показується останнє оголошення з його датою.",
+    "ru": "Если на сегодня облэнерго не обновило количество очередей, показывается последнее объявление с его датой.",
+    "en": "When the oblenergo has not updated the number of queues for today, the last notice is shown with its date."
   }
 }
