@@ -1,12 +1,12 @@
 {
-  "version": "1.0.34",
-  "code": 35,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.34.apk",
-  "size": 153448,
-  "sha256": "7fdb5d5f35ce08617c275b1a421e5339d444eadfa049cffc4d6566a03e2a8e39",
+  "version": "1.0.35",
+  "code": 36,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.35.apk",
+  "size": 154634,
+  "sha256": "2b99b5d3b6a3bf6768eb4821f24ad1cec8daddc76b80397d1407a247f398372e",
   "notes": {
-    "uk": "Якщо на сьогодні обленерго не оновило кількість черг, показується останнє оголошення з його датою.",
-    "ru": "Если на сегодня облэнерго не обновило количество очередей, показывается последнее объявление с его датой.",
-    "en": "When the oblenergo has not updated the number of queues for today, the last notice is shown with its date."
+    "uk": "Можна вибрати, з яких адрес приходять сповіщення: перемикачі в картці «Сповіщення».",
+    "ru": "Можно выбрать, с каких адресов приходят уведомления: переключатели в карточке «Уведомления».",
+    "en": "You can choose which addresses send notifications: toggles in the Notifications card."
   }
 }
