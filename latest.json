@@ -1,12 +1,12 @@
 {
-  "version": "1.0.37",
-  "code": 38,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.37.apk",
-  "size": 154780,
-  "sha256": "070b4856de7667360feb6bac7c12299392c7c2140dc5105e80c1745cef479cef",
+  "version": "1.0.38",
+  "code": 39,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.38.apk",
+  "size": 154546,
+  "sha256": "e5b1eb137a67cf043066369c0d9928f8b64af76576288dee670a6fb618759a80",
   "notes": {
-    "uk": "Виправлено: після редагування адреси з вимкненими сповіщеннями вони знову вмикалися.",
-    "ru": "Исправлено: после редактирования адреса с выключенными уведомлениями они снова включались.",
-    "en": "Fixed: editing an address with notifications turned off turned them back on."
+    "uk": "Дрібне покращення вигляду картки «Сповіщення».",
+    "ru": "Мелкое улучшение вида карточки «Уведомления».",
+    "en": "A small layout tweak in the Notifications card."
   }
 }
