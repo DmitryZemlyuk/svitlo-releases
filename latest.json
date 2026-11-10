@@ -1,12 +1,12 @@
 {
-  "version": "1.0.35",
-  "code": 36,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.35.apk",
-  "size": 154634,
-  "sha256": "2b99b5d3b6a3bf6768eb4821f24ad1cec8daddc76b80397d1407a247f398372e",
+  "version": "1.0.36",
+  "code": 37,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.36.apk",
+  "size": 154736,
+  "sha256": "99e9755f17550ad37afa053743f322b4b6ab432cbcfa11e19f98de7ee5de051d",
   "notes": {
-    "uk": "Можна вибрати, з яких адрес приходять сповіщення: перемикачі в картці «Сповіщення».",
-    "ru": "Можно выбрать, с каких адресов приходят уведомления: переключатели в карточке «Уведомления».",
-    "en": "You can choose which addresses send notifications: toggles in the Notifications card."
+    "uk": "У картці «Сповіщення» вказано, що набір сповіщень діє для всіх адрес.",
+    "ru": "В карточке «Уведомления» указано, что набор уведомлений действует для всех адресов.",
+    "en": "The Notifications card now says the notification set applies to all addresses."
   }
 }
