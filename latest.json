@@ -1,12 +1,12 @@
 {
-  "version": "1.0.36",
-  "code": 37,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.36.apk",
-  "size": 154736,
-  "sha256": "99e9755f17550ad37afa053743f322b4b6ab432cbcfa11e19f98de7ee5de051d",
+  "version": "1.0.37",
+  "code": 38,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/svitlo-releases/main/apk/svitlo-1.0.37.apk",
+  "size": 154780,
+  "sha256": "070b4856de7667360feb6bac7c12299392c7c2140dc5105e80c1745cef479cef",
   "notes": {
-    "uk": "У картці «Сповіщення» вказано, що набір сповіщень діє для всіх адрес.",
-    "ru": "В карточке «Уведомления» указано, что набор уведомлений действует для всех адресов.",
-    "en": "The Notifications card now says the notification set applies to all addresses."
+    "uk": "Виправлено: після редагування адреси з вимкненими сповіщеннями вони знову вмикалися.",
+    "ru": "Исправлено: после редактирования адреса с выключенными уведомлениями они снова включались.",
+    "en": "Fixed: editing an address with notifications turned off turned them back on."
   }
 }
